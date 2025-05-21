@@ -1,0 +1,213 @@
+[
+    {
+      "customerId": "CUST001",
+      "customerName": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "555-1234",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST002",
+      "customerName": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "phone": "555-2345",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST003",
+      "customerName": "Charlie Garcia",
+      "email": "charlie.garcia@example.com",
+      "phone": "555-3456",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST004",
+      "customerName": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "phone": "555-4567",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST005",
+      "customerName": "Edward Nigma",
+      "email": "edward.nigma@example.com",
+      "phone": "555-5678",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST006",
+      "customerName": "Fiona Apple",
+      "email": "fiona.apple@example.com",
+      "phone": "555-6789",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST007",
+      "customerName": "George Jetson",
+      "email": "george.jetson@example.com",
+      "phone": "555-7890",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST008",
+      "customerName": "Hannah Montana",
+      "email": "hannah.m@example.com",
+      "phone": "555-8012",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST009",
+      "customerName": "Ian Malcolm",
+      "email": "ian.malcolm@example.com",
+      "phone": "555-9023",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST010",
+      "customerName": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "555-0123",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST011",
+      "customerName": "Kevin Hart",
+      "email": "kevin.hart@example.com",
+      "phone": "555-1111",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST012",
+      "customerName": "Luna Lovegood",
+      "email": "luna.lovegood@example.com",
+      "phone": "555-2222",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST013",
+      "customerName": "Michael Scott",
+      "email": "michael.scott@example.com",
+      "phone": "555-3333",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST014",
+      "customerName": "Nancy Wheeler",
+      "email": "nancy.wheeler@example.com",
+      "phone": "555-4444",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST015",
+      "customerName": "Oscar Isaac",
+      "email": "oscar.isaac@example.com",
+      "phone": "555-5555",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST016",
+      "customerName": "Pam Beesly",
+      "email": "pam.beesly@example.com",
+      "phone": "555-6666",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST017",
+      "customerName": "Quentin Tarantino",
+      "email": "quentin.t@example.com",
+      "phone": "555-7777",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST018",
+      "customerName": "Rachel Green",
+      "email": "rachel.green@example.com",
+      "phone": "555-8888",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST019",
+      "customerName": "Steve Rogers",
+      "email": "steve.rogers@example.com",
+      "phone": "555-9999",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST020",
+      "customerName": "Tony Stark",
+      "email": "tony.stark@example.com",
+      "phone": "555-0000",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST021",
+      "customerName": "Uma Thurman",
+      "email": "uma.thurman@example.com",
+      "phone": "555-2121",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST022",
+      "customerName": "Victor Stone",
+      "email": "victor.stone@example.com",
+      "phone": "555-3131",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST023",
+      "customerName": "Wanda Maximoff",
+      "email": "wanda.maximoff@example.com",
+      "phone": "555-4141",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST024",
+      "customerName": "Xander Harris",
+      "email": "xander.harris@example.com",
+      "phone": "555-5151",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST025",
+      "customerName": "Yennefer Vengerberg",
+      "email": "yennefer.v@example.com",
+      "phone": "555-6161",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST026",
+      "customerName": "Zelda Hyrule",
+      "email": "zelda.hyrule@example.com",
+      "phone": "555-7171",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "CUST027",
+      "customerName": "Alfred Pennyworth",
+      "email": "alfred.p@example.com",
+      "phone": "555-8181",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST028",
+      "customerName": "Barbara Gordon",
+      "email": "barbara.g@example.com",
+      "phone": "555-9191",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "CUST029",
+      "customerName": "Clark Kent",
+      "email": "clark.kent@example.com",
+      "phone": "555-1010",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "CUST030",
+      "customerName": "Derek Zoolander",
+      "email": "derek.z@example.com",
+      "phone": "555-2020",
+      "loyalty": "Bronze"
+    }
+  ]
+  
