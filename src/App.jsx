@@ -11,11 +11,14 @@ const Error403 = React.lazy(() => import("./pages/Error403"));
 const Error404 = React.lazy(() => import("./pages/Error404"));
 const AddCustomer = React.lazy(() => import("./pages/AddCustomer"));
 const AddOrder = React.lazy(() => import("./pages/AddOrder"));
+const Products = React.lazy(() => import("./pages/Produk"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetails"));
 
 const Register = React.lazy(() => import("./pages/auth/Register"));
 const Login = React.lazy(() => import("./pages/auth/Login"));
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const Users = React.lazy(() => import("./pages/auth/Users") );
+
 
 import MainLayout from "./layout/MainLayout";
 import AuthLayout from "./layout/AuthLayout";
@@ -35,6 +38,8 @@ function App() {
           <Route path="/customers" element={<Customers />} />
           <Route path="/add-customer" element={<AddCustomer />} />
           <Route path="/add-order" element={<AddOrder />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
         </Route>
 
         {/* Auth Layout Routes */}
