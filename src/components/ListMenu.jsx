@@ -40,6 +40,12 @@ const menus = [
     icon: <MdFastfood />,
     path: "/products",
   },
+      {
+    id: "menu-7",
+    label: "Notes",
+    icon: <MdFastfood />,
+    path: "/Notes",
+  },
 ];
 
 const menuClass = ({ isActive }) =>
